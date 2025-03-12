@@ -6,3 +6,4 @@ Current Assignments:
 - [Notes on Index Anatomy](https://github.com/aelliott26/ITD256/blob/main/Notes/Anatomy_Notes.md)
 - [Notes on The Equality Operator notes](https://github.com/aelliott26/ITD256/blob/main/Notes/The_Equality_Operator_notes.md)
 - [Notes on Case Insesitive Search](https://github.com/aelliott26/ITD256/blob/main/Notes/Case-Insensitive.md)
+- [Notes on Joins](https://github.com/aelliott26/ITD256/blob/main/Notes/Join_notes.md)
