@@ -9,3 +9,4 @@ Current Assignments:
 - [Notes on Case Insesitive Search](https://github.com/aelliott26/ITD256/blob/main/Notes/Case-Insensitive.md)
 - [Notes on Joins](https://github.com/aelliott26/ITD256/blob/main/Notes/Join_notes.md)
 - [Django ORM Project](https://github.com/aelliott26/ITD256/blob/main/Django_orm.md)
+- [Django ORM Queries](https://github.com/aelliott26/ITD256/blob/main/Notes/3queriesOrm.md)
