@@ -34,3 +34,13 @@
 | **Geo-Distribution** | Optimized for multiple regions       | Single-region or manually replicated        |
 | **Use Cases**        | Global applications, high traffic    | Traditional relational database needs       |
 
+## Real Time Demo
+- I am going to demo a couple features of CockroachDB
+1. How you can store data in different locations in the world
+2. How even with seperated data you can query it at normal speeds
+    - 0.045(Old Tests) vs 0.045 (Cockroach DB)
+3. How it deals with multiple transactions at once
+
+
+
+
